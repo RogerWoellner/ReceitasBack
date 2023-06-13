@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 1, 
+    "aula": 1,
+    "descricao": "Configurar ambientes, definir equipes e tema.",
+    "competencias": [2]
+  },
+  {
+    "_id": 2,
+    "aula": 2,
+    "descricao": "Realizar de exercícios de fixação.",
+    "competencias": [3,4,5]  
+  },
+  {
+    "_id": 3,
+    "aula": 3,
+    "descricao": "Modelar e desenvolver o projeto disciplinar.",
+    "competencias": [7,8]  
+  },
+  {
+    "_id": 4,
+    "aula": 3,
+    "descricao": "Aula expositiva.",
+    "competencias": [7,8]  
+  }
+]

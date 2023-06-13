@@ -1,0 +1,30 @@
+[
+  {
+    "_id": 1,
+    "nivel": 1,
+    "login": "admin@email.com",
+    "senha": "Senha123",
+    "dataCriacao": "2021-05-10"
+  },
+  {
+    "_id": 2,
+    "nivel": 2,
+    "login": "coordenador@email.com",
+    "senha": "Senha123",
+    "dataCriacao": "2021-05-10"
+  },
+  {
+    "_id": 3,
+    "nivel": 3,
+    "login": "professor@email.com",
+    "senha": "Senha123",
+    "dataCriacao": "2021-05-10"
+  },
+  {
+    "_id": 4,
+    "nivel": 4, 
+    "login": "usuario@email.com",
+    "senha": "Senha123",
+    "dataCriacao": "2021-05-10"
+  }
+]

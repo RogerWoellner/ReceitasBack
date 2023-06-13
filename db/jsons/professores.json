@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1, 
+    "nome": "Geucimar",
+    "email": "geucimar@email.com",
+    "fone": "(41) 99988-1133"
+  },
+  {
+    "_id": 2, 
+    "nome": "Diogo",
+    "email": "diogo@email.com",
+    "fone": "(41) 99988-1144"
+  },
+  {
+    "_id": 3, 
+    "nome": "Felipe",
+    "email": "felipe@email.com",
+    "fone": "(41) 99988-1155"
+  }
+]

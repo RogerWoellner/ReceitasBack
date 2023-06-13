@@ -1,0 +1,82 @@
+[ 
+  {
+    "_id": 1,
+    "diretriz": 8,
+    "descricao" : "Entender como ocorrem requisições (requests) e respostas (responses) sobre o protocolo HTTP.",
+    "objetivo": "Global",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [1],
+    "habilidades": []
+  },
+  {
+    "_id": 2,
+    "diretriz": 8,
+    "descricao" : "Configurar o ambiente de trabalho para o desenvolvimento back-end.",
+    "objetivo": "Específico",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [2],
+    "habilidades": []
+  },
+  {
+    "_id": 3,
+    "diretriz": 8,
+    "descricao" : "Criar soluções de back-end capazes de se conectar com aplicações modernas de fron-end.",
+    "objetivo": "Global",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [3],
+    "habilidades": []
+  },
+  {
+    "_id": 4,
+    "diretriz": 8,
+    "descricao" : "Utilizar ORMs para persistência e acesso de dados.",
+    "objetivo": "Específico",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [4],
+    "habilidades": []
+  },
+  {
+    "_id": 5,
+    "diretriz": 8,
+    "descricao" : "Utilizar frameworks para criação, organização e estruturação de páginas web.",
+    "objetivo": "Específico",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [5],
+    "habilidades": []
+  },
+  {
+    "_id": 6,
+    "diretriz": 8,
+    "descricao" : "Utilizar bibliotecas para a criação de páginas responsivas.",
+    "objetivo": "Específico",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [6],
+    "habilidades": []
+  },
+  {
+    "_id": 7,
+    "diretriz": 8,
+    "descricao" : "Utilizar bibliotecas e técnicas para validação de regras de negócio.",
+    "objetivo": "Global",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [7],
+    "habilidades": []
+  },
+  {
+    "_id": 8,
+    "diretriz": 8,
+    "descricao" : "Utilizar serviços para compartilhamento e versionamento de código.",
+    "objetivo": "Global",
+    "dimensoes": [1,2],
+    "atitudes": [],
+    "conteudos": [8],
+    "habilidades": []
+  }
+]

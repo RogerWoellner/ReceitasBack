@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1, 
+    "descricao": "Bolo de Chocolate",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "1 - Bata no liquidificador os ovos por 5 minutos. 2 - Acrescente aos poucos os demais ingredientes, exceto o fermento. 3 - Depois de bater acrescente então o fermento. 4 - Coloque em uma forma média untada e enfarinhada. 5 - Leve para assar em forno médio, pré-aquecido por 45 minutos, ou até dourar.",
+    "disciplinas":  []
+  },
+  {
+    "_id": 2, 
+    "descricao": "Arroz",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "Lave o arroz em água corrente; aqueça óleo ou azeite em fogo médio; refogue o arroz até dourar; adicione água e sal; deixe ferver; reduza o fogo e tampe a panela; cozinhe por 15-20 minutos; desligue o fogo; deixe descansar por alguns minutos; solte o arroz com um garfo antes de servir.",
+    "disciplinas":  []
+  },
+  {
+    "_id": 3, 
+    "descricao": "Feijão",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "Lave o feijão; coloque o feijão e água em uma panela de pressão; adicione alho, cebola, sal, temperos e carnes (opcional); tampe a panela; cozinhe em fogo médio-alto até pegar pressão; reduza o fogo e cozinhe por cerca de 30-40 minutos (ou de acordo com as instruções do feijão utilizado); desligue o fogo e deixe a pressão sair naturalmente antes de abrir a panela; verifique o cozimento e a consistência do feijão; se necessário, volte ao fogo para ajustar a textura; sirva quente.",
+    "disciplinas":  []
+  },
+  {
+    "_id": 4, 
+    "descricao": "Macarrão",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "Ferva água em uma panela; adicione sal; adicione o macarrão; cozinhe o macarrão até ficar al dente; escorra o macarrão; aqueça uma frigideira com azeite; adicione alho picado e refogue; adicione o macarrão cozido à frigideira; misture bem; tempere com sal, pimenta e outros temperos de sua preferência; sirva quente.",
+    "disciplinas":  []
+  },
+  {
+    "_id": 5, 
+    "descricao": "Sushi",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "Cozinhe o arroz sushi; tempere o arroz com vinagre de arroz, açúcar e sal; estenda uma folha de alga nori sobre uma esteira de bambu; espalhe uma camada fina de arroz sobre a alga; adicione fatias finas de peixe, legumes e outros ingredientes de sua escolha; enrole a esteira para formar um rolo apertado; corte o rolo em fatias; sirva com molho de soja, wasabi e gengibre em conserva.",
+    "disciplinas":  []
+  },
+  {
+    "_id": 6, 
+    "descricao": "Churros",
+    "areas":  [1,3],
+    "cursos": [1,2,3,4,5],
+    "ingredientes": "Ovo",
+    "preparo": "Misture 1 xícara de água, 2 colheres de sopa de manteiga, 1 colher de sopa de açúcar e uma pitada de sal em uma panela. Aqueça até ferver, adicione 1 xícara de farinha de trigo e misture até formar uma massa homogênea. Transfira para um saco de confeiteiro com bico estrela e aperte a massa em uma forma. Frite em óleo quente até dourar, escorra em papel absorvente e polvilhe açúcar e canela.",
+    "disciplinas":  []
+  }
+]

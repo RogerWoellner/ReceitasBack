@@ -1,0 +1,44 @@
+[
+  { 
+    "_id": 1,
+    "dataCriacao": "1988-01-01",
+    "nome": "Ovo",
+    "dcn": 2,
+    "disciplinas": []
+  },
+  { 
+    "_id": 2,
+    "dataCriacao": "1999-01-01",
+    "nome": "Chocolate em Pó",
+    "dcn": 2,
+    "disciplinas": []
+  },
+  { 
+    "_id": 3,
+    "dataCriacao": "2003-01-01",
+    "nome": "Farinha de Trigo",
+    "dcn": 1,
+    "disciplinas": []
+  },
+  { 
+    "_id": 4,
+    "dataCriacao": "2019-01-01",
+    "nome": "Açúcar",
+    "dcn": 2,
+    "disciplinas": []
+  },
+  { 
+    "_id": 5,
+    "dataCriacao": "2019-01-01",
+    "nome": "Azeite",
+    "dcn": 2,
+    "disciplinas": []
+  },
+  { 
+    "_id": 6,
+    "dataCriacao": "2019-01-01",
+    "nome": "Baunilha",
+    "dcn": 2,
+    "disciplinas": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "_id": 1, 
+    "nivel": "Leigo",
+    "descricao": "Não conhece; não sabe fazer."
+  },
+  {
+    "_id": 2, 
+    "nivel": "Aprendiz",
+    "descricao": "Conhece pouco; faz o simples."
+  },
+  {
+    "_id": 3, 
+    "nivel": "Competente",
+    "descricao": "Conhece o suficiente; faz o que precisa ser feito."
+  },
+  {
+    "_id": 4, 
+    "nivel": "Proficiente",
+    "descricao": "Conhece muito; faz o complexo."
+  },
+  {
+    "_id": 5, 
+    "nivel": "Especialista",
+    "descricao": "Perito em sua área de atuação; consegue inovar."
+  }
+]

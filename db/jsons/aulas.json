@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1, 
+    "data": "2023-02-28",
+    "titulo": "Visão geral de aplicações SPAs, React, Node e APIs.",
+    "disciplinas": [6,7],
+    "professor": 1,
+    "atividades": [1]
+  },
+  {
+    "_id": 2,
+    "data": "2023-03-07",
+    "titulo": "Introdução ao Javascript Backend.",
+    "disciplinas": [6,7],
+    "professor": 1,
+    "atividades": [1,2]
+  },
+  {
+    "_id": 3,
+    "data": "2023-03-14",
+    "titulo": "Criação de um servidor de APIs com Express.",
+    "disciplinas": [6,7],
+    "professor": 1,
+    "atividades": [2]  
+  },
+  {
+    "_id": 4,
+    "data": "2023-03-21",
+    "titulo": "Criação de models e conexão ao MongoDB.",
+    "disciplinas": [6,7],
+    "professor": 1,
+    "atividades": [3]  
+  }
+]

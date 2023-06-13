@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "nivel": "Admin",
+    "descricao" : "Nível máximo de permissões",
+    "permissoes": ["Listar", "Incluir", "Alterar", "Excluir"],
+    "acessos": "*"
+  },
+  {
+    "_id": 2,
+    "nivel": "Coordenador",
+    "descricao" : "Nível máximo de permissões",
+    "permissoes": ["Listar", "Incluir", "Alterar", "Excluir"],
+    "acessos": "*"
+  },
+  {
+    "_id": 3,
+    "nivel": "Professor",
+    "descricao" : "Nível máximo de permissões",
+    "permissoes": ["Listar", "Incluir", "Alterar", "Excluir"],
+    "acessos": "*"
+  },
+  {
+    "_id": 4,
+    "nivel": "Usuário",
+    "descricao" : "Nível intermediário de permissões",
+    "permissoes": ["Listar", "Incluir", "Alterar"],
+    "acessos": "*"
+  },
+  {
+    "_id": 5,
+    "nivel": "Anônimo",
+    "descricao" : "Não possui permissões",
+    "permissoes": ["Listar"],
+    "acessos": "*"
+  }
+]

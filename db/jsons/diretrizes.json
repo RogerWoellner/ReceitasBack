@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1, 
+    "dcn": 2, 
+    "descricao" : "de conhecimento das questões sociais, profissionais, legais, éticas, políticas e humanísticas;",
+    "dimensoes": [1],
+    "chaves": ["Sociedade", "Profissional", "Legal", "Ética", "Política", "Humana"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "I"
+  },
+  {
+    "_id": 2, 
+    "dcn": 2,
+    "descricao" : "da compreensão do impacto da computação e suas tecnologias na sociedade no que concerne ao atendimento e à antecipação estratégica das necessidades da sociedade;",
+    "dimensoes": [1],
+    "chaves": ["Computação", "Tecnologia", "Sociedade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "II"
+  },
+  {
+    "_id": 3, 
+    "dcn": 2, 
+    "descricao" : "de visão crítica e criativa na identificação e resolução de problemas contribuindo para o desenvolvimento de sua área;",
+    "dimensoes": [2,3,4],
+    "chaves": ["Pensamento crítico", "Criatividade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "III"
+  },
+  {
+    "_id": 4, 
+    "dcn": 2,
+    "descricao" : "da capacidade de atuar de forma empreendedora, abrangente e cooperativa no atendimento às demandas sociais da região onde atua, do Brasil e do mundo;",
+    "dimensoes": [2,3],
+    "chaves": ["Empreendedor", "Visionário", "Cooperador", "Sociedade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "IV"
+  },
+  {
+    "_id": 5,  
+    "dcn": 2,
+    "descricao" : "de utilizar racionalmente os recursos disponíveis de forma transdisciplinar;",
+    "dimensoes": [2,3],
+    "chaves": ["Racionalidade", "Transdisciplinaridade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "V"
+  },
+  {
+    "_id": 6,  
+    "dcn": 2,
+    "descricao" : "da compreensão das necessidades da contínua atualização e aprimoramento de suas competências e habilidades;",
+    "dimensoes": [1,4],
+    "chaves": ["Proatividade", "Competência", "Habilidade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "VI"
+  },
+  {
+    "_id": 7, 
+    "dcn": 2, 
+    "descricao" : "da capacidade de reconhecer a importância do pensamento computacional na vida cotidiana, como também sua aplicação em outros domínios e ser capaz de aplicá-lo em circunstâncias apropriadas;",
+    "dimensoes": [1,2,3],
+    "chaves": ["Visão computacional", "Diversificação", "Adequabilidade"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "VII"
+  },
+  {
+    "_id": 8, 
+    "dcn": 2, 
+    "descricao" : "da capacidade de atuar em um mundo de trabalho globalizado.",
+    "dimensoes": [2,3],
+    "chaves": ["Globalização", "Trabalho"],
+    "pagina": 2,
+    "artigo": 4,
+    "paragrafo": "VIII"
+  }
+]

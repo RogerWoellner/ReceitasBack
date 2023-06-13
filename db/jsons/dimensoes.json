@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1, 
+    "fink": "Conhecimento",
+    "bloom": "Lembrar e Entender",
+    "descricao": "Capacidade de lembrar de informações e compreender alguns contextos.",
+    "dominio": 2
+  },
+  {
+    "_id": 2, 
+    "fink": "Aplicação",
+    "bloom": "Analisar e Aplicar",
+    "descricao": "Capacidade de analisar e aplicar o conhecimento em contextos específicos.",
+    "dominio": 3    
+  },
+  {
+    "_id": 3, 
+    "fink": "Integração",
+    "bloom": "Avaliar e Aplicar",
+    "descricao": "Capacidade de avaliar e aplicar o conhecimento em diferentes cenários.",
+    "dominio": 3
+  },
+  {
+    "_id": 4, 
+    "fink": "Aprendizagem",
+    "bloom": "Criar",
+    "descricao": "Capacidade de adquirir novos conhecimentos, inovar.",
+    "dominio": 2
+  },
+  {
+    "_id": 5, 
+    "fink": "Socialização",
+    "bloom": "n.s.a.",
+    "descricao": "Capacidade de interagir e se relacionar com outras pessoas.",
+    "dominio": 1
+  },
+  {
+    "_id": 6, 
+    "fink": "Atenção",
+    "bloom": "n.s.a.",
+    "descricao": "Capacidade de instrospeção e empatia.",
+    "dominio": 1
+  }
+]

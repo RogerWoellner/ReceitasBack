@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1,
+    "descricao": "Funcionamento do ambiente/aplicações web."
+  },
+  {
+    "_id": 2,
+    "descricao": "Configuração do de software executor de códigos JavaScript e gerenciadores de pacotes/CLI/Comandos."
+  },
+  {
+    "_id": 3,
+    "descricao": "Software de execução códigos JavaScript no backend/servidor e frontend/interface."
+  },
+  {
+    "_id": 4,
+    "descricao": "Banco de dados distribuídos NoSQL e/ou compatíveis com os softwares apresentados para back-end."
+  },
+  {
+    "_id": 5,
+    "descricao": "Frameworks JavaScript para criação de single-page applications."
+  },
+  {
+    "_id": 6,
+    "descricao": "Frameworks de layouts responsivos baseados em grids."
+  },
+  {
+    "_id": 7,
+    "descricao": "Regras de negócio, validação de formulário, animações e transições responsivas."
+  },
+  {
+    "_id": 8,
+    "descricao": "Sistema de controle de versão distribuído, hospedagem de código-fonte e arquivos."
+  }
+]
